@@ -3,6 +3,7 @@
 
 ![Error Loading](https://media.giphy.com/media/jRtZJvoWxWVJ7uF1cx/giphy.gif)
 
+
 </center>
 
 <br>
@@ -25,6 +26,9 @@ I am a Gameplay Programmer.<br>I am currently working on learning Unity and Unre
 ![](https://github-readme-stats.vercel.app/api?username=Vimu-Sama&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vimu-Sama&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vimu-Sama&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Error Loading](https://github.com/Vimu-Sama/Vimu-Sama/blob/output/github-contribution-grid-snake.gif)
+
 </center>
 
 ## 🏆 GitHub Trophies

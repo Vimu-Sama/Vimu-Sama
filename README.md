@@ -7,7 +7,7 @@
 </center>
 
 <br>
-I am a Gameplay Programmer.<br>I am currently working on learning Unity and Unreal Skills.<br>I like computer games relating to the Genre of RPG, FPS, Medieval Time, etc.<br>The things which excites the most about Game Development are the endless possibilities to achieve, do and imagine stuff which can't be or are hard to do in real life.<br>You can find my previous projects at- https://sharemygame.com/@Vimu.<br>The game I published via PlayStore- https://play.google.com/store/apps/details?id=com.Lone_SouL.ThinkBeforeTap. <br>My Go-To Relax Mantra is- Gaming with friends.
+I am a Gameplay Programmer.<br>I am currently developing my Unity and Unreal Skills.<br>I like computer games related to the Genre of RPG, FPS, Medieval Time, etc.<br>The things which excite me the most about Game Development are the endless possibilities to achieve, do and imagine stuff which can't be or are hard to do in real life.<br>You can find my previous projects at- https://sharemygame.com/@Vimu.<br>The game I published via PlayStore- https://play.google.com/store/apps/details?id=com.Lone_SouL.ThinkBeforeTap. <br>My Go-To Relax Mantra is- Gaming with friends.
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">

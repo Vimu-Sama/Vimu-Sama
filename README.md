@@ -52,5 +52,7 @@ I am a Backend Developer.<br>Previously a Gameplay Programmer, I have transition
 ---  
 [![](https://visitcount.itsvg.in/api?id=Vimu-Sama&icon=1&color=0)](https://visitcount.itsvg.in)  
 
-![Error Loading](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp2eGhzOHZwY2J5enhrNThtNTFndmZpOWFyZW5obzI2a2N1ZmF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif)  
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp2eGhzOHZwY2J5enhrNThtNTFndmZpOWFyZW5obzI2a2N1ZmF3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="100% alt="Error Loading" />
+</p>
 

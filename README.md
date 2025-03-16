@@ -1,7 +1,7 @@
 # 💫 About Me  
 <center>  
 
-![Error Loading](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FpN2xsZmZyYmY0ODZsem9pd28za3d2N284Y2owODluZzE1YTF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif)  
+![Error Loading](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h6NzV6N3JmdmIycTFpMDljMmg5MWtqZG42OTd4d2t4N3JnZTB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif)  
 
 </center>  
 

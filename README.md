@@ -1,9 +1,8 @@
 # 💫 About Me  
-<center>  
 
-![Error Loading](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ5d3R3dmFyNjNpbjJ3eHNpbWI1aWxpdTZzdm8xNHJoMzd5aTJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)  
-
-</center>  
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ5d3R3dmFyNjNpbjJ3eHNpbWI1aWxpdTZzdm8xNHJoMzd5aTJ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" alt="Error Loading" />
+</p>
 
 <br>  
 I am a Backend Developer.<br>Previously a Gameplay Programmer, I have transitioned into backend development, focusing on building scalable and efficient systems.<br>Currently, I am mastering Node.js, Rust, and backend architecture, including databases, caching, and cloud deployment.<br>While I still love games, my passion now lies in designing robust backend infrastructures that power applications.<br>You can find my previous game projects at - [ShareMyGame](https://sharemygame.com/@Vimu).<br>My published game on PlayStore - [Think Before Tap](https://play.google.com/store/apps/details?id=com.Lone_SouL.ThinkBeforeTap).<br>My Go-To Relax Mantra is - Gaming with friends.  

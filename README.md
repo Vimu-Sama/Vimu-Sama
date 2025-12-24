@@ -5,7 +5,7 @@
 </p>
 
 <br>  
-I am a Backend Developer.<br>Previously a Gameplay Programmer, I have transitioned into backend development, focusing on building scalable and efficient systems.<br>Currently, I am learning and applying concepts in Java[my bias currently], Rust, and backend architecture, including databases, caching, and cloud deployment.<br>While I still love games, my passion now lies in designing robust backend infrastructures that power applications.<br>You can find my previous game projects at - [ShareMyGame](https://sharemygame.com/@Vimu).<br>My published game on PlayStore - [Think Before Tap](https://play.google.com/store/apps/details?id=com.Lone_SouL.ThinkBeforeTap).<br>My Go-To Relax Mantra is - Gaming with friends.  
+I am a Backend Developer.<br>Previously a Gameplay Programmer, I have transitioned into backend development, focusing on building scalable and efficient systems.<br>Currently, I am learning and applying concepts in Java[my bias currently], Rust, and backend architecture, including databases, caching, and cloud deployment.<br>While I still love games, my passion now lies in designing robust backend infrastructures that power applications.
 
 <h1 align="left">Connect with me:</h1>  
 <p align="left">  
